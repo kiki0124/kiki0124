@@ -1,3 +1,3 @@
 - 👋 Hi, I’m kiki124
 -  I’m currently learning python and different python libraries.
-- You can contact me using discord -> kiki124_
+- You can contact me using discord -> [kiki124](https://discordapp.com/users/1105414178937774150)
