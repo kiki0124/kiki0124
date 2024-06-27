@@ -1,4 +1,4 @@
 - 👋 Hi, I’m kiki124
 -  I know python, html and css, and I am currently learning javascript.
 - You can contact me using discord -> [kiki124](https://discordapp.com/users/1105414178937774150)
-- You can visit my [website](https://kiki124.vercel.app)
+- You can visit my [website](https://kiki124.uwu.ai)
